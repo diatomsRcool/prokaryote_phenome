@@ -1,0 +1,236 @@
+T100	Acidianus brierleyi	177	species
+T101	Acidianus infernus DSM3191	179	
+T102	Aciduliprofundum boonei T469	180	
+T103	Aeropyrum pernix K1	181	
+T104	Archaeoglobus fulgidus DSM 4304	T183
+T105	Archaeoglobus profundus	T184	species
+T106	Archaeoglobus veneficus	T184	species
+T107	Caldivirga maquilingensis IC-167	T185	
+T108	Candidatus Korarchaeum cryptofilum OPF8	T294	
+T109	Candidatus Methanoregula boonei 6A8	T296	
+T110	Cenarchaeum symbiosum A	T188	
+T111	Desulfurococcus mobilis	T190	species
+T112	Ferroglobus placidus	T191	species
+T113	Ferroplasma acidarmanus Fer1	T192
+T114	Haloarcula marismortui ATCC 43049	T194
+T115	Halobacterium salinarum R1	T196	
+T116	Halobacterium sp. NRC-1	T197
+T117	Haloquadratum walsbyi DSM 16790	T198
+T118	Halorubrum lacusprofundi ATCC 49239	T200
+T119	Hyperthermus butylicus DSM 5456	T202
+T120	Ignicoccus hospitalis KIN4/I	T204	
+T121	Ignicoccus islandicus	T205	species
+T122	Ignicoccus pacificus	T205	species
+T123	Metallosphaera sedula DSM 5348	T206
+T124	Methanobrevibacter smithii ATCC 35061	T208
+T125	Methanocaldococcus jannaschii DSM 2661	T210
+T126	Methanococcoides burtonii DSM 6242	T212
+T127	Methanococcus aeolicus Nankai-3	T214	
+T128	Methanococcus maripaludis C5	T216	
+T129	Methanococcus maripaludis S2	T216	
+T130	Methanococcus vannielii SB	T217	
+T131	Methanococcus voltae A3	T218	
+T132	Methanocorpusculum labreanum Z	T219
+T133	Methanoculleus marisnigri JR1	T221	
+T134	Methanogenium organophilum	T223	species
+T135	Methanomicrobium mobile	T224	species
+T136	Methanopyrus kandleri AV19	T225	
+T137	Methanosaeta thermophila PT	T227	
+T138	Methanosarcina acetivorans C2A	T229
+T139	Methanosarcina barkeri str fusaro	T231	
+T140	Methanosarcina mazei Go1	T232	
+T141	Methanosphaera stadtmanae DSM 3091	T233
+T142	Methanospirillum hungatei JF-1	T235	
+T143	Methanothermobacter thermautotrophicus strDeltaH	T237	
+T144	Methanothermus fervidus	T239	species
+T145	Methanotorris formicicus	T240	species
+T146	Nanoarchaeum equitans Kin4-M	T241
+T147	Natronomonas pharaonis DSM 2160	T243
+T148	Nitrosopumilus maritimus SCM1	T245	
+T149	Picrophilus torridus DSM 9790	T247
+T150	Pyrobaculum aerophilum str. IM2	T249
+T151	Pyrobaculum arsenaticum DSM 13514	T251
+T152	Pyrobaculum calidifontis JCM 11548	T252
+T153	Pyrobaculum islandicum DSM 4184	T253
+T154	Pyrobaculum oguniense TE7	T254
+T155	Pyrococcus abyssi GE5	T255
+T156	Pyrococcus furiosus DSM 3638	T257
+T157	Pyrococcus horikoshii OT3	T258	
+T158	Pyrodictium occultum	T259	species
+T159	Staphylothermus marinus F1	T260	
+T160	Stygiolobus azoricus DSM 6296	T262
+T161	Sulfolobus acidocaldarius DSM 639	T264
+T162	Sulfolobus solfataricus P2	T266	
+T163	Sulfolobus tokodaii str. 7	T267
+T164	Thermococcus barophilus MP	T268	
+T165	Thermococcus kodakarensis KOD1	T270	
+T166	Thermococcus sp AM4	T269	
+T167	Thermofilum pendens Hrk 5	T271
+T168	Thermoplasma acidophilum DSM 1728	T273
+T169	Thermoplasma volcanium GSS1	T275	
+T170	Thermoproteus neutrophilus V24Sta	T276	
+T171	uncultured crenarchaeote 4B7
+T172	uncultured crenarchaeote 74A4
+T173	Uncultured crenarchaeote genomic fragment 54d
+T174	Uncultured methanogenic archaeon RC-I
+T175	uncultured soil crenarchaeote 34kb fragment
+T176	Vulcanisaeta distributa IC-065	T278	
+T177	Acidianus	T286	genus
+T178	Aciduliprofundum	T288	genus
+T179	Acidianus infernus	177	species
+T180	Aciduliprofundum boonei	178	species
+T181	Aeropyrum pernix	T182	species
+T182	Aeropyrum	T280	genus
+T183	Archaeoglobus fulgidus	T184	species
+T184	Archaeoglobus	T289	genus
+T185	Caldivirga maquilingensis	T186	species
+T186	Caldivirga	T292	genus
+T187	Candidatus Korarchaeum	T295	genus
+T188	Cenarchaeum symbiosum	T189	species
+T189	Cenarchaeum	T301	genus
+T190	Desulfurococcus	T280	genus
+T191	Ferroglobus	T289	genus
+T192	Ferroplasma acidarmanus	T193	species
+T193	Ferroplasma	T304	genus
+T194	Haloarcula marismortui	T195	species
+T195	Haloarcula	T307	genus
+T196	Halobacterium salinarum	T197	species
+T197	Halobacterium	T307	genus
+T198	Haloquadratum walsbyi	T199	species
+T199	Haloquadratum	T307	genus
+T200	Halorubrum lacusprofundi	T201	species
+T201	Halorubrum	T307	genus
+T202	Hyperthermus butylicus	T203	species
+T203	Hyperthermus	T281	genus
+T204	Ignicoccus hospitalis	T205	species
+T205	Ignicoccus	T280	genus
+T206	Metallosphaera sedula	T207	species
+T207	Metallosphaera	T286	genus
+T208	Methanobrevibacter smithii	T209	species
+T209	Methanobrevibacter	T310	genus
+T210	Methanocaldococcus jannaschii	T211	species
+T211	Methanocaldococcus	T313	genus
+T212	Methanococcoides burtonii	T213	species
+T213	Methanococcoides	T316	genus
+T214	Methanococcus aeolicus	T215	species
+T215	Methanococcus	T318	genus
+T216	Methanococcus maripaludis	T215	species
+T217	Methanococcus vannielii	T215	species
+T218	Methanococcus voltae	T215	species
+T219	Methanocorpusculum labreanum	T220	species
+T220	Methanocorpusculum	T319	genus
+T221	Methanoculleus marisnigri	T222	species
+T222	Methanoculleus	T320	genus
+T223	Methanogenium	T320	genus
+T224	Methanomicrobium	T320	genus
+T225	Methanopyrus kandleri	T226	species
+T226	Methanopyrus	T321	genus
+T227	Methanosaeta thermophila	T228	species
+T228	Methanosaeta	T324	genus
+T229	Methanosarcina acetivorans	T230	species
+T230	Methanosarcina	T316	genus
+T231	Methanosarcina barkeri	T230	species
+T232	Methanosarcina mazei	T230	species
+T233	Methanosphaera stadtmanae	T234	species
+T234	Methanosphaera	T310	genus
+T235	Methanospirillum hungatei	T236	species
+T236	Methanospirillum	T325	genus
+T237	Methanothermobacter thermautotrophicus	T238	species
+T238	Methanothermobacter	T310	genus
+T239	Methanothermus	T326	genus
+T240	Methanotorris	T313	genus
+T241	Nanoarchaeum equitans	T242	species
+T242	Nanoarchaeum	T327	genus
+T243	Natronomonas pharaonis	T244	species
+T244	Natronomonas	T307	genus
+T245	Nitrosopumilus maritimus	T246	species
+T246	Nitrosopumilus	T328	genus
+T247	Picrophilus torridus	T248	species
+T248	Picrophilus	T330	genus
+T249	Pyrobaculum aerophilum	T250	species
+T250	Pyrobaculum	T292	genus
+T251	Pyrobaculum arsenaticum	T250	species
+T252	Pyrobaculum calidifontis	T250	species
+T253	Pyrobaculum islandicum	T250	species
+T254	Pyrobaculum oguniense	T250	species
+T255	Pyrococcus abyssi	T256	species
+T256	Pyrococcus	T331	genus
+T257	Pyrococcus furiosus	T256	species
+T258	Pyrococcus horikoshii	T256	species
+T259	Pyrodictium	T281	genus
+T260	Staphylothermus marinus	T261	species
+T261	Staphylothermus	T280	genus
+T262	Stygiolobus azoricus	T263	species
+T263	Stygiolobus	T286	genus
+T264	Sulfolobus acidocaldarius	T265	species
+T265	Sulfolobus	T286	genus
+T266	Sulfolobus solfataricus	T265	species
+T267	Sulfolobus tokodaii	T265	species
+T268	Thermococcus barophilus	T269	species
+T269	Thermococcus	T331	genus
+T270	Thermococcus kodakarensis	T269	species
+T271	Thermofilum pendens	T272	species
+T272	Thermofilum	T334	genus
+T273	Thermoplasma acidophilum	T274	species
+T274	Thermoplasma	T335	genus
+T275	Thermoplasma volcanium	T274	species
+T276	Thermoproteus neutrophilus	T277	species
+T277	Thermoproteus	T292	genus
+T278	Vulcanisaeta distributa	T279	species
+T279	Vulcanisaeta	T292	genus
+T280	Desulfurococcaceae	T282	family
+T281	Pyrodictiaceae	T282	family
+T282	Defulfurococcales	T283	order
+T283	Thermoprotei	T284	class
+T284	Crenarchaeota	T285	phylum
+T285	Archaea		kingdom
+T286	Sulfolobaceae	T287	family
+T287	Sulfolobales	T283	order
+T288	Euryarchaeota	T285	phylum
+T289	Archaeoglobaceae	T290	family
+T290	Archaeoglobales	T291	order
+T291	Archaeoglobi	T288	class
+T292	Thermoproteaceae	T293	family
+T293	Thermoproteales	T283	order
+T294	Candidatus Korarchaeum cryptofilum	T187	species
+T295	Korarchaeota	T284	class
+T296	Candidatus Methanoregula boonei	T297	species
+T297	Candidatus Methanoregula	T298	genus
+T298	Methanoregulaceae	T299	family
+T299	Methanomicrobiales	T300	order
+T300	Methanomicrobia	T288	class
+T301	Cenarchaeaceae	T302	family
+T302	Cenarchaeales	T303	order
+T303	Thaumarchaeota	T285	phylum
+T304	Ferroplasmaceae	T305	family
+T305	Thermoplasmatales	T305	order
+T306	Thermoplasmata	T288	class
+T307	Halobacteriaceae	T308	family
+T308	Halobacteriales	T309	order
+T309	Halobacteria	T288	class
+T310	Methanobacteriaceae	T311	family
+T311	Methanobacteriales	T312	order
+T312	Methanobacteria	T288	class
+T313	Methanocaldococcaceae	T314	family
+T314	Methanococcales	T315	order
+T315	Methanococci	T288	class
+T316	Methanosarcinaceae	T317	family
+T317	Methanosarcinales	T300	order
+T318	Methanococcaceae	T314	family
+T319	Methanocorpusculaceae	T299	family
+T320	Methanomicrobiaceae	T299	family
+T321	Methanopyraceae	T322	family
+T322	Methanopyrales	T323	order
+T323	Methanopyri	T288	class
+T324	Methanosaetaceae	T317	family
+T325	Methanospirillaceae	T299	family
+T326	Methanothermaceae	T311	family
+T327	Nanoarchaeota	T285	phylum
+T328	Nitrosopumilaceae	T329	family
+T329	Nitrosopumilales	T303	order
+T330	Picrophilaceae	T305	family
+T331	Thermococcaceae	T332	family
+T332	Thermococcales	T333	order
+T333	Thermococci	T288	class
+T334	Thermofilaceae	T293	family
+T335	Thermoplasmataceae	T305	family
